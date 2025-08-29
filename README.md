@@ -2,7 +2,7 @@
 # 🍴 My Food App
 
 A **Food Ordering Web Application** built using **Advanced Java (Servlet & JSP)** with **MySQL Database**.  
-This project demonstrates an end-to-end implementation of a modern web application with **MVC architecture**, **DAO & DTO design patterns**, and a clean UI.
+This project is a modern web application with **MVC architecture**, **DAO & DTO design patterns**, and a clean UI.
 
 ---
 
